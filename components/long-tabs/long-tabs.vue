@@ -105,10 +105,10 @@
 				.badge {
 					display: inline-block;
 					margin: 30upx 0 0 20upx;
-					width: 28upx;
-					height: 28upx;
-					padding: 6upx;
-					line-height: 28upx;
+					width: 36upx;
+					height: 36upx;
+					text-align: center;
+					line-height: 36upx;
 					border-radius: 50%;
 					background: #F53B26;
 					color: #FFFFFF;
